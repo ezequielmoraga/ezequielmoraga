@@ -42,17 +42,22 @@ Here are some ideas to get you started:
 
 
 ## 🚀 Tecnologías que utilizo
-![My Skills](https://skillicons.dev/icons?i=py,django,js,html,css,sass,postgres,posman,flutter&perline=3)
+![My Skills](https://skillicons.dev/icons?i=py,django,js,html,css,sass,postgres,postman,)
 ---
 ## 🚀  Herramientas que utilizo
-
-![My Skills](https://skillicons.dev/icons?i=powershell,windows,vscode,git,github,flutter&perline=3)
---
-
+![My Skills](https://skillicons.dev/icons?i=powershell,windows,vscode,git,github,)
+---
 ## 📫 Contacto
-[![gmail](https://skillicons.dev/icons?i=gmail,)](mailto:ezequielmoraga3572@gmail.com)
-[![linkedin](https://skillicons.dev/icons?i=linkedin,)](www.linkedin.com/in/ezequiel-moraga-0a4560275)
-
+<p>
+  <a href="mailto:ezequielmoraga3572@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/ezequiel-moraga-0a4560275" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+---
 ## 📊 Estadísticas de GitHub
 ![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielmoraga&show_icons=true&theme=radical)
 
