@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ---
 ## 🚀  Herramientas que utilizo
 
-![My Skills](https://skillicons.dev/icons?i=powershell,windows,vscode,git, github,)
+![My Skills](https://skillicons.dev/icons?i=powershell,windows,vscode,git,github,)
 --
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
