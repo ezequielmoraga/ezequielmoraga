@@ -57,7 +57,8 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
 </p>
----
+
+
 ## 📊 Estadísticas de GitHub
 ![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielmoraga&show_icons=true&theme=radical)
 
