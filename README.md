@@ -42,22 +42,16 @@ Here are some ideas to get you started:
 
 
 ## 🚀 Tecnologías que utilizo
-![My Skills](https://skillicons.dev/icons?i=py,django,js,html,css,sass,postgres,posman)
+![My Skills](https://skillicons.dev/icons?i=py,django,js,html,css,sass,postgres,posman,flutter&perline=3)
 ---
 ## 🚀  Herramientas que utilizo
 
-![My Skills](https://skillicons.dev/icons?i=powershell,windows,vscode,git,github,)
+![My Skills](https://skillicons.dev/icons?i=powershell,windows,vscode,git,github,flutter&perline=3)
 --
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)
 
 ## 📫 Contacto
 [![gmail](https://skillicons.dev/icons?i=gmail,)](mailto:ezequielmoraga3572@gmail.com)
 [![linkedin](https://skillicons.dev/icons?i=linkedin,)](www.linkedin.com/in/ezequiel-moraga-0a4560275)
-[![discord](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ezequiel-moraga-0a4560275)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequielmoraga3572@gmail.com)
 
 ## 📊 Estadísticas de GitHub
 ![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielmoraga&show_icons=true&theme=radical)
