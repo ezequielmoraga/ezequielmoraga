@@ -7,7 +7,7 @@ Combino disciplina, dedicación y curiosidad para crear soluciones que impacten 
 ## En este espacio encontrarás:
 
 ✨ **Proyectos personales** en los que exploro programación, automatización y desarrollo web.  
-💻 **Tecnologías que utilizo:** Python, Flask, Tkinter, SQLite, JavaScript, HTML y CSS.  
+💻 **Tecnologías que utilizo:** Python,Django, SQLite, JavaScript, HTML ,CSS,Sass,Postman,Git,N8n,Vscode,Powershell.  
 🚀 **Objetivo:** seguir creciendo como desarrollador y compartir lo que voy aprendiendo.
 
 ---
