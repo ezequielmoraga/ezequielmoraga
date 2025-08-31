@@ -1,5 +1,5 @@
 ##       ¡Hola! Soy Ezequiel Moraga
-# 👋 ¡Bienvenido a mi Portafolio!
+# 👋 ¡Bienvenido a mi Portfolio!
 
 Soy Programador **apasionado por la tecnología**.  
 Combino disciplina, dedicación y curiosidad para crear soluciones que impacten de manera real.
