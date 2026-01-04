@@ -1,26 +1,34 @@
-##       ¡Hola! Soy Ezequiel Moraga
-# 👋 ¡Bienvenido a mi Portfolio!
+## 👋 Hola, soy Ezequiel Moraga
 
-Soy Programador **apasionado por la tecnología**.  
-Combino disciplina, dedicación y curiosidad para crear soluciones que impacten de manera real.
+Técnico Superior en Programación, con enfoque en **sistemas, automatización y desarrollo de soluciones funcionales**.  
+Trabajo en la creación de herramientas prácticas orientadas a la **organización de procesos, gestión de información y mejora de sistemas internos**.
+
+### 📌 ¿Qué vas a encontrar en este GitHub?
+
+- Proyectos orientados a **automatización de tareas y sistemas de gestión**
+- Aplicaciones web y de escritorio con enfoque funcional
+- Código claro, organizado y documentado
+- Repositorios pensados para entender el problema y la solución
+
+### 🛠 Tecnologías principales
+
+- **Python** (automatización, apps de escritorio, backend)
+- **Django**
+- **JavaScript**
+- **HTML / CSS / Sass**
+- **SQLite**
+- **Git**
+
+Otras herramientas: Postman, n8n, VS Code, PowerShell.
+
+### 🎯 Enfoque
+
+Me interesa trabajar en proyectos donde la tecnología se use para **ordenar, optimizar y dar soporte a procesos reales**, aportando desde la lógica, el código y la documentación.
+
 ---
-## En este espacio encontrarás:
 
-✨ **Proyectos personales** en los que exploro programación, automatización y desarrollo web.  
-💻 **Tecnologías que utilizo:** Python,Django, SQLite, JavaScript, HTML ,CSS,Sass,Postman,Git,N8n,Vscode,Powershell.  
-🚀 **Objetivo:** seguir creciendo como desarrollador y compartir lo que voy aprendiendo.
-
----
-
-## 📂 ¿Qué encontrarás aquí?
-
-✅ **Código limpio y comentado** para que puedas aprender de cada proyecto.  
-✅ **Documentación clara** en cada carpeta para guiarte en la instalación y uso.  
-✅ **Proyectos variados:** desde apps de escritorio hasta prototipos web.
-
----
-
-
+📍 Comodoro Rivadavia, Argentina  
+🔗 [LinkedIn](https://www.linkedin.com/in/ezequiel-moraga-0a4560275/)
 
 
 <!--
