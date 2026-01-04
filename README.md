@@ -31,17 +31,6 @@ Otras herramientas: Postman, n8n, VS Code, PowerShell.
 Me interesa trabajar en proyectos donde la tecnología se use para **ordenar, optimizar y dar soporte a procesos reales**, aportando desde la lógica, el código y la documentación.
 
 ---
-
-📍 Comodoro Rivadavia, Argentina  
-🔗 [LinkedIn](https://www.linkedin.com/in/ezequiel-moraga-0a4560275/)
----
-
-## 🚀 Tecnologías que utilizo
-![My Skills](https://skillicons.dev/icons?i=py,django,js,html,css,sass,postgres,postman,)
----
-## 🚀  Herramientas que utilizo
-![My Skills](https://skillicons.dev/icons?i=powershell,windows,vscode,git,github,)
----
 ## 📫 Contacto
 <p>
   <a href="mailto:ezequielmoraga3572@gmail.com">
@@ -52,3 +41,6 @@ Me interesa trabajar en proyectos donde la tecnología se use para **ordenar, op
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
 </p>
+
+📍 Comodoro Rivadavia, Argentina  
+🔗 [LinkedIn](https://www.linkedin.com/in/ezequiel-moraga-0a4560275/)
