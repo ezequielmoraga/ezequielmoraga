@@ -1,7 +1,7 @@
 ## 👋 Hola, soy Ezequiel Moraga
 
-# Técnico Superior en Programación, con enfoque en **sistemas, automatización y desarrollo de soluciones funcionales**.  
-Trabajo en la creación de herramientas prácticas orientadas a la **organización de procesos, gestión de información y mejora de sistemas internos**.
+Técnico Superior en Programación, con enfoque en **sistemas, automatización y desarrollo de soluciones funcionales**.  
+*Trabajo en la creación de herramientas prácticas orientadas a la organización de procesos, gestión de información y mejora de sistemas internos*.
 ---
 ## 📌 ¿Qué vas a encontrar en este GitHub?
 
@@ -18,9 +18,12 @@ Trabajo en la creación de herramientas prácticas orientadas a la **organizaci�
 - **HTML / CSS / Sass**
 - **SQLite**
 - **Git**
+
 ![My Skills](https://skillicons.dev/icons?i=py,django,js,html,css,sass,postgres,postman,)
 
 Otras herramientas: Postman, n8n, VS Code, PowerShell.
+
+
 ![My Skills](https://skillicons.dev/icons?i=powershell,windows,vscode,git,github,)
 ---
 ## 🎯 Enfoque
