@@ -3,14 +3,14 @@
 Técnico Superior en Programación, con enfoque en **sistemas, automatización y desarrollo de soluciones funcionales**.  
 Trabajo en la creación de herramientas prácticas orientadas a la **organización de procesos, gestión de información y mejora de sistemas internos**.
 
-### 📌 ¿Qué vas a encontrar en este GitHub?
+## 📌 ¿Qué vas a encontrar en este GitHub?
 
 - Proyectos orientados a **automatización de tareas y sistemas de gestión**
 - Aplicaciones web y de escritorio con enfoque funcional
 - Código claro, organizado y documentado
 - Repositorios pensados para entender el problema y la solución
 
-### 🛠 Tecnologías principales
+## 🛠 Tecnologías principales
 
 - **Python** (automatización, apps de escritorio, backend)
 - **Django**
@@ -21,7 +21,7 @@ Trabajo en la creación de herramientas prácticas orientadas a la **organizaci�
 
 Otras herramientas: Postman, n8n, VS Code, PowerShell.
 
-### 🎯 Enfoque
+## 🎯 Enfoque
 
 Me interesa trabajar en proyectos donde la tecnología se use para **ordenar, optimizar y dar soporte a procesos reales**, aportando desde la lógica, el código y la documentación.
 
