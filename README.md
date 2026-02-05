@@ -14,12 +14,13 @@ Técnico Superior en Programación, con enfoque en **sistemas, automatización y
 
 - **Python** (automatización, apps de escritorio, backend)
 - **Django**
+- **Node Js**
 - **JavaScript**
 - **HTML / CSS / Sass**
 - **SQLite**
 - **Git**
 
-![My Skills](https://skillicons.dev/icons?i=py,django,js,html,css,sass,postgres,postman,)
+![My Skills](https://skillicons.dev/icons?i=py,django,nodejs,js,html,css,sass,postgres,postman,)
 
 Otras herramientas: Postman, n8n, VS Code, PowerShell.
 
