@@ -5,16 +5,6 @@ Software Developer especializado en Python, automatización y procesamiento de d
 ---
 ## Proyectos destacados
 
-- Sistemas de gestión y control de stock
-- Automatización de tareas administrativas
-- Aplicaciones backend con Python y Django
-- Procesamiento y análisis de datos
-- APIs REST y herramientas internas
----
-
-
-## Proyectos
-
 📦 Sistema de Control de Stock
 Python + SQLite
 
