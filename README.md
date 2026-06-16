@@ -1,24 +1,43 @@
-## 👋 Hola, soy Ezequiel Moraga
+## 👋 Hola, soy Ezequiel 
 
-Técnico Superior en Programación, con enfoque en **sistemas, automatización y desarrollo de soluciones funcionales**.  
+Software Developer especializado en Python, automatización y procesamiento de datos.  
 *Trabajo en la creación de herramientas prácticas orientadas a la organización de procesos, gestión de información y mejora de sistemas internos*.
 ---
-## 📌 ¿Qué vas a encontrar en este GitHub?
+## Proyectos destacados
 
-- Proyectos orientados a **automatización de tareas y sistemas de gestión**
-- Aplicaciones web y de escritorio con enfoque funcional
-- Código claro, organizado y documentado
-- Repositorios pensados para entender el problema y la solución
+- Sistemas de gestión y control de stock
+- Automatización de tareas administrativas
+- Aplicaciones backend con Python y Django
+- Procesamiento y análisis de datos
+- APIs REST y herramientas internas
 ---
+
+
+## Proyectos
+
+📦 Sistema de Control de Stock
+Python + SQLite
+
+📊 Análisis de Datos DNRPA
+Pandas + Matplotlib
+
+🚦 Urban Flow
+OCR + OpenCV + Procesamiento de datos
+
+🌐 API REST de Logística
+Node.js + Express
+
+
 ## 🛠 Tecnologías principales
 
-- **Python** (automatización, apps de escritorio, backend)
-- **Django**
-- **Node Js**
-- **JavaScript**
-- **HTML / CSS / Sass**
-- **SQLite**
-- **Git**
+- Python
+- Pandas
+- Django
+- SQL
+- PostgreSQL
+- Node.js
+- JavaScript
+- Git
 
 ![My Skills](https://skillicons.dev/icons?i=py,django,nodejs,js,html,css,sass,postgres,postman,)
 
@@ -27,8 +46,15 @@ Otras herramientas: Postman, n8n, VS Code, PowerShell.
 
 ![My Skills](https://skillicons.dev/icons?i=powershell,windows,vscode,git,github,)
 ---
-## 🎯 Enfoque
+## Áreas de interés
 
+- Backend Development
+- Data Analytics
+- Process Automation
+- APIs REST
+- ETL y procesamiento de datos
+- Sistemas de gestión
+  
 Me interesa trabajar en proyectos donde la tecnología se use para **ordenar, optimizar y dar soporte a procesos reales**, aportando desde la lógica, el código y la documentación.
 
 ---
@@ -43,5 +69,5 @@ Me interesa trabajar en proyectos donde la tecnología se use para **ordenar, op
   </a>
 </p>
 
-📍 Comodoro Rivadavia, Argentina  
+📍 Argentina  
 🔗 [LinkedIn](https://www.linkedin.com/in/ezequiel-moraga-0a4560275/)
