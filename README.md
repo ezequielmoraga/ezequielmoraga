@@ -8,7 +8,7 @@ Software Developer especializado en Python, automatización y procesamiento de d
 📦 Sistema de Control de Stock
 Python + SQLite
 
-📊 Análisis de Datos DNRPA
+📊 Análisis de Datos 
 Pandas + Matplotlib
 
 🚦 Urban Flow
